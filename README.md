@@ -1,7 +1,7 @@
 #   PREDICTION DU TRAFFIC ROUTIER À L’AIDE DU DEEP LEARNING POUR L’OPTIMISATION DES RÉSEAUX IOT DE TRANSPORT INTELLIGENT
 Traffic volume and speed prediction using ML &amp; Deep Learning (LSTM, GRU, CNN-LSTM, Transformer, Random Forest,etc)
 
-Traffic Volume & Speed Prediction Project 🚦
+## Traffic Volume & Speed Prediction Project 🚦
 
 Ce projet vise à prédire le volume de trafic et la vitesse des véhicules sur l’autoroute I-94 en utilisant différents modèles de Machine Learning, Time Series et Deep Learning. L’objectif est d’analyser, modéliser et visualiser les tendances du trafic à partir de données historiques pour optimiser les réseaux IoT de transport intelligent.
 
@@ -57,7 +57,7 @@ Multi-step prediction (6 heures) :
 
 Seq2Seq, GRU, CNN-GRU, CNN-LSTM
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, Plotly, Jupyter Notebook
 
