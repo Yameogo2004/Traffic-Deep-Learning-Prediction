@@ -5,7 +5,7 @@ Traffic Volume & Speed Prediction Project 🚦
 
 Ce projet vise à prédire le volume de trafic et la vitesse des véhicules sur l’autoroute I-94 en utilisant différents modèles de Machine Learning, Time Series et Deep Learning. L’objectif est d’analyser, modéliser et visualiser les tendances du trafic à partir de données historiques pour optimiser les réseaux IoT de transport intelligent.
 
-📌 Objectifs
+## 📌 Objectifs
 
 Comprendre et appliquer des modèles de séries temporelles et de deep learning pour la prédiction du trafic
 
@@ -13,7 +13,7 @@ Comparer les performances des différents modèles
 
 Visualiser la qualité des prédictions pour faciliter la prise de décision
 
-📁 Données
+## 📁 Données
 
 Le dataset utilisé :
 Metro_Interstate_Traffic_Volume_with_speed.csv
@@ -28,7 +28,7 @@ speed : vitesse moyenne des véhicules
 
 weather, temp, precipitation, … : variables additionnelles influençant le trafic
 
-🧠 Modèles testés
+## 🧠 Modèles testés
 ✔ Machine Learning
 
 Persistence Model (baseline)
@@ -61,7 +61,7 @@ Seq2Seq, GRU, CNN-GRU, CNN-LSTM
 
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras, Plotly, Jupyter Notebook
 
-📊 Évaluation des modèles
+## 📊 Évaluation des modèles
 
 Metrics utilisées : RMSE (Root Mean Square Error), MAE (Mean Absolute Error)
 
