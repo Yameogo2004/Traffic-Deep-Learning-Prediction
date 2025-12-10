@@ -69,7 +69,7 @@ Visualisation :
 
 Comparaison graphique des prédictions vs valeurs réelles
 
-Graphique comparatif des erreurs (MSE/RMSE) entre modèles
+Graphique comparatif des erreurs (MAE/RMSE) entre modèles
 
 Meilleures performances observées :
 
